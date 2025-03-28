@@ -19,7 +19,7 @@ A beautiful, responsive todo list application with a modern glass-morphic design
 
 ## Live Demo
 
-[View Live Demo](your-demo-link-here)
+[View Live Demo](https://todo-app-skaichimas-projects.vercel.app/)
 
 ## Technologies Used
 
