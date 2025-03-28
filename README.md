@@ -2,7 +2,7 @@
 
 A beautiful, responsive todo list application with a modern glass-morphic design and smooth animations. Built with vanilla JavaScript, HTML, and CSS.
 
-![Todo List App Screenshot](<Screenshot (86).png>)
+![Todo List App Screenshot](<Todo app.png>)
 
 ## Features
 
